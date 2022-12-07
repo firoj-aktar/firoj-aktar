@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Firoj Aktar</h1>
 <h3 align="center">A passionate Student from VTU</h3>
-<img align="right" alt="coding" width="400" src="http://www.web24zone.com/wp-content/uploads/2022/09/2c778e_89d09c380b7b4a09bcdbcb329c4734b3_mv2.gif"
+<img align="right" alt="coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTllACNvW2HWUCatWG6VkDbsXXehPQXpC4_NgwdDb5jha8yfQEesL4wabfbh4TsHMd9ynY&usqp=CAU"
 
 - 🌱 I’m currently learning **Java Framework(Hibernate,Spring,Spring Boot)**
 
