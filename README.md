@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Firoj Aktar</h1>
+<h1 align="center">Hi <img src="https://github.com/NoobMahbub/NoobMahbub/blob/main/Wave.gif" height="55px" width="55px">, I'm Firoj Aktar</h1>
 <h3 align="center">A passionate Student from VTU</h3>
 <img align="right" alt="coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTllACNvW2HWUCatWG6VkDbsXXehPQXpC4_NgwdDb5jha8yfQEesL4wabfbh4TsHMd9ynY&usqp=CAU"
 
